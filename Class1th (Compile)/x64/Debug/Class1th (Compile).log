@@ -1,0 +1,4 @@
+﻿  souce.c
+C:\Users\Administrator\Desktop\sbs-computer-program\Class1th (Compile)\souce.c(90,2): error C2065: 'experience': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\sbs-computer-program\Class1th (Compile)\souce.c(92,30): error C2065: 'experience': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\sbs-computer-program\Class1th (Compile)\souce.c(103,9): warning C4068: 알 수 없는 pragma 'endragion'

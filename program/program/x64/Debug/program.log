@@ -1,2 +1,5 @@
 ﻿  source.c
-  program.vcxproj -> C:\Users\Administrator\Desktop\program\x64\Debug\program.exe
+C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(12,16): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
+C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(12,28): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
+C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(17,16): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
+C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(17,27): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
