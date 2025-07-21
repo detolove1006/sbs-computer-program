@@ -1,43 +1,143 @@
 #include <stdio.h>
 
+
 void main()
 {
 
-#pragma region 오버플로우
-	// 특정한 자료형이 표현할 수 있는 최댓값의 범위를
-	// 넘어서 연산을 수행하는 과정입니다.
+#pragma region 조건문
+	// 어떤 조건이 주어질 때 해당 조건에 동작을
+	// 수행하도록 실행하는 명령문입니다.
+
+#pragma region 관계 연산자
+	//두 개의 피연산자의 값을 비교하여 그 결과를 0 또는
+	// 1 이라는 값으로 나타내는 연산자 입니다.
+
+	// 관계 연산자는 조건이 맞을 때 1이라는 값으로 변환되며.
+	// 조건이 틀릴 때 0이라는 값으로 반환됩니다.
+
+	//int a1 = 10;
+	//int a2 = 20;
+   //
+	//printf(" a1 < a2: %d\n", a1 < a2);
+	//printf(" a1 > a2: %d\n", a1 > a2);
+	//printf("a1 <= a2: %d\n", a1 <= a2);
+	//printf("a1 >= a2: %d\n", a1 >= a2);
+	//printf("a1 != a2: %d\n", a1 != a2);
+	//printf("a1 == a2: %d\n", a1 == a2);
+   
 
 
-	// 오버플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-	// 실수일때 오버플로우가 발생하면 infinity라는 값으로 출력합니다.
 
-	//char a1 = 127 + 1;
-	//printf("a1: %d\n", a1);
 
 #pragma endregion
 
-#pragma region 언더플로우
-	// 특정한 자료형이 표현 할 수 있는 최솟값의 법위를
-	// 넘어서 연산을 수행하는 과정 입니다.
+#pragma region if문
+	// 어떤 특정한 조건을 비교하여 조건이 맞다면 실행되는
+	// 명령문입니다.
 
-	//char data = -128 - 1;
+	//    int health = 0;
+	//	if (health >= 0;)
+	//{
+	//	
+	//		printf("destroy\n");
+	//}
 
-	//printf("data 변수의 값: %d\n", data);
 
+
+
+	// if문은 1일 때 실행되며, 0일때 실행되지 않습니다.
+#pragma endregion
+
+#pragma region else if문
+	// if문의 조건이 틀릴 때 else if문의 조건이
+	// 맞다면 실행되는 명령문 입니다.
 
 	
-	// 언더플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-	// 실수일 때 언더플로우가 발생하면 0 이라는 값으로 출력됩니다.
+
+	//int health = 99;
+	//
+	//if (health <= 100)
+	//{
+	//	printf("health\n");
+	//}
+	//
+	//else if (health < 100)
+	//{
+	//	printf("health\n");
+	//}
+
+	// else if 문은 여러번 정의할 수 있으면. if문이
+	// 존재할 때 사용할 수 있습니다.
+
 
 
 #pragma endregion
 
-#pragma region 부호가 없는 자료형
-	/*unsigned int count = 4294967295;
+#pragma region else문
+    // if 문과 else if 문이 조건이 다 틀리면
+	//실행되는 명령문입니다.
 
-	printf("sigened count 변수의 값 : %d\n", count);
 
-	printf("unsigned count 변수의 값: %u\n", count);*/
+	//int a1 = 0;
+	//
+	//if (a1 > 0)
+	//{
+	//	printf("변수 양수\n");
+	//}
+	//
+	//else if (a1 < 0)
+	//{
+	//	printf("변수 음수\n");
+	//}
+	//
+	//else
+	//{
+	//	printf("양수도 음수도 아님\n");
+	//}
+	//
+
+
+
+
+	//if문에 연결된 모든 조건이 맞을 때
+	//가장 위에 있느느 조건문만 실행됩니다.
+
+
+
+#pragma endregion
+
+#pragma region swich문
+        // 어떤 결과에 따라 그 결과부터 실행되는 명령문입니다.
+
+
+char grade = 'B';
+
+ // swich문은 해당 조건이 완료되었을 때, break문이 없으면
+ // 나머지 밑에 있는 case 문까지 계속 실행시키다가 종료합니다.
+
+swich(grade)
+{
+	case 'A': printf("100점 ~ 90점 입니다. \n");
+		break;
+	case 'B': printf("89점 ~ 80점 입니다. \n");
+		break;
+	case 'C': printf("79점 ~ 70점 입니다. \n");
+		break;
+	case 'D': printf("69점 ~ 50점 입니다. \n");
+		break;
+	case 'E': printf("49점 ~ 0점 입니다. \n");
+		break;
+
+
+	default: printf("ex\n");
+}
+
+
+        // swixch문의 경우 조건에 해당하는 값에 따라 조건의 위치가 이동합니다
+#pragma endregion
+
+
+
 
 #pragma endregion
 
