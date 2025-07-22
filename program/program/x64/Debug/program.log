@@ -1,14 +1,2 @@
 ﻿  source.c
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(118,1): warning C4013: 'swich'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(119,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(120,2): error C2046: 대/소문자가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(121,3): error C2043: break가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(122,2): error C2046: 대/소문자가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(123,3): error C2043: break가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(124,2): error C2046: 대/소문자가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(125,3): error C2043: break가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(126,2): error C2046: 대/소문자가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(127,3): error C2043: break가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(128,2): error C2046: 대/소문자가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(129,3): error C2043: break가 잘못되었습니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(132,2): error C2047: 기본값이 잘못되었습니다.
+  program.vcxproj -> C:\Users\Administrator\Desktop\sbs-computer-program\program\x64\Debug\program.exe
