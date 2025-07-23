@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 
 void main()
@@ -109,34 +109,128 @@ void main()
         // 어떤 결과에 따라 그 결과부터 실행되는 명령문입니다.
 
 
-char grade = 'B';
+//char grade = 'B';
 
  // swich문은 해당 조건이 완료되었을 때, break문이 없으면
  // 나머지 밑에 있는 case 문까지 계속 실행시키다가 종료합니다.
 
-swich(grade)
+//swich(grade)
 {
-	case 'A': printf("100점 ~ 90점 입니다. \n");
-		break;
-	case 'B': printf("89점 ~ 80점 입니다. \n");
-		break;
-	case 'C': printf("79점 ~ 70점 입니다. \n");
-		break;
-	case 'D': printf("69점 ~ 50점 입니다. \n");
-		break;
-	case 'E': printf("49점 ~ 0점 입니다. \n");
-		break;
-
-
-	default: printf("ex\n");
-}
+	//case 'A': printf("100점 ~ 90점 입니다. \n");
+	//	break;
+	//case 'B': printf("89점 ~ 80점 입니다. \n");
+	//	break;
+	//case 'C': printf("79점 ~ 70점 입니다. \n");
+	//	break;
+	//case 'D': printf("69점 ~ 50점 입니다. \n");
+	//	break;
+	//case 'E': printf("49점 ~ 0점 입니다. \n");
+	//	break;
+	//
+	//
+	//default: printf("ex\n");
+}	//
 
 
         // swixch문의 경우 조건에 해당하는 값에 따라 조건의 위치가 이동합니다
 #pragma endregion
 
 
-//pull request
+#pragma region 논리 연산자
+
+
+
+
+
+#pragma region and 연산자
+
+//int score = 70;
+//char rank = 'C';
+//
+//if (score >= 69 && rank == 'C')
+//{
+//	printf("good\n");
+//}
+
+
+
+
+
+#pragma endregion
+
+#pragma region or 연산자
+// 두개의 조건 중에서 하나라도 조건이 성립될 때 실행된은 연산자입니다.
+
+//nt age = 10;
+//nt weight = 50;
+//
+//f (age >= 10 || weight > 50)
+//
+//	printf("나이는 10세이고, 몸무게는 50kg 이하입니다.\n");
+//
+
+
+
+#pragma endregion
+
+#pragma region not 연산자
+// 하나의 조건을 반전시키는 연산자입니다.
+
+//int power = 0;
+//if (!power)
+//{
+//	printf("off");
+//}
+
+
+#pragma endregion
+
+#pragma region 사분면
+
+//int x = 0;
+//int y = 0;
+//
+//if (x > 0 && y > 0)
+//{
+//	printf("1사분면\n");
+//
+//}
+//else if (x < 0 && y > 0)
+//{
+//	printf("2사분면\n");
+//
+//}
+//else if (x < 0 && y < 0)
+//{
+//	printf("3사분면\n");
+//
+//}
+//else if (x > 0 && y < 0)
+//{
+//	printf("4사분면\n");
+//
+//}
+//else if (x != 0 && y == 0)
+//
+//{
+//	printf("x절편\n");
+//
+//
+//}
+//else if (x == 0 && y != 0)
+//{
+//	printf("y절편\n");
+//}
+//else
+//{
+//	printf("원점\n");
+//}
+
+#pragma endregion
+
+
+#pragma endregion
+
 
 #pragma endregion
 
