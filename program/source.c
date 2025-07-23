@@ -44,7 +44,6 @@ void main()
 
 
 
-
 	// if문은 1일 때 실행되며, 0일때 실행되지 않습니다.
 #pragma endregion
 
@@ -137,7 +136,7 @@ swich(grade)
 #pragma endregion
 
 
-
+//pull request
 
 #pragma endregion
 
