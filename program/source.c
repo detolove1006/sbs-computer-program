@@ -18,28 +18,30 @@ void main()
 	//
 	//a2 = ++a1;
 	//
-	//printf("a1을 전위증가한 값은: %d\n", a2);
-	//printf("a2변수를 전위증가한 값 %d\n",a1);
+	//printf("a1을 전위 증가시킨 값은: %d\n", a2);
+	//printf("a2을 전위 증가시킨 값은: %d\n", a1);
 	//
 	//a2 = --a1;
 	//
-	//printf("a1을 전위증가한 값은: %d\n", a2);
-	//printf("a2변수를 전위증가한 값 %d\n",a1);
+	//printf("a1을 전위 감소시킨 값은: %d\n", a2);
+	//printf("a2을 전위 감소시킨 값은: %d\n", a1);
 
-	//후위 증감 연산자는 연산을 수행한 값을 변수의 값을 증감시킵니다.(다시 적으셈)
 
-   //int y = 0;
+	//후위 증감 연산자는 연산을 수행한 다음 변수의 값을 증감시킵니다.
+
 	//int previouseY = 0;
-   //
-	//y = previouseY++;
-   //
-	//printf("y의 값은? %d\n", previouseY);
-	//printf("prex의 값은? %d\n", y);
-   //
-	//y = previouseY--;
-   //
-	//printf("y의 값은? %d\n", previouseY);
-	//printf("prex의 값은? %d\n", y);
+	//int Y = 0;
+	//
+	//Y = previouseY++;
+	//
+	//printf("previouseY 변수를 후위 증가한 값: %d\n", previouseY);
+	//printf("Y 변수의 값: %d\n", Y);
+	//
+	//Y = previouseY--;
+	//
+	//printf("previouseY 변수를 후위 감소한 값: %d\n", previouseY);
+	//printf("Y 변수의: %d\n", Y);
+ 
 
 
 #pragma endregion
@@ -71,14 +73,13 @@ void main()
 
 	//int count = 5;
 	//
-	//while (count > 0 )
-	//
+	//while (count > 0)
 	//{
-	//	printf("count: %d\n", count);
+	//	printf("count : %d\n", count);
 	//
 	//	count--;
 	//}
-
+	
 
 #pragma endregion
 
@@ -90,8 +91,8 @@ void main()
 	//
 	//do
 	//{
-	//	printf("me\n");
-	//} while (life > 0);
+	//	printf("반복할 내용");
+	//} while (life == 1);
 
 	
 #pragma endregion
@@ -101,18 +102,15 @@ void main()
 	// 반복문은 이어서 실행하는 제어문입니다.
 
 
-	//for (int a1 = 1; a1 <= 10; a1++)
+	//for (int i = 1; i <= 10; i++)
 	//{
-	//
-	//	if (1 % 3 == 0)
+	//	if (i % 3 == 0)
 	//	{
 	//		continue;
 	//	}
-	//		
-	//	
 	//
 	//
-	//	printf("%d");
+	//	printf("%d", i);
 	//}
 
 
@@ -126,8 +124,15 @@ void main()
 // 반복문입니다.
 #pragma endregion
 
-
-//pull request
+//for (int i = 0; i < 3; i++)
+//{
+//	printf("out\n");
+//
+//	for (int i = 0; i < 3; i++)
+//	{
+//		printf("in\n");
+//	}
+//}
 
 
 #pragma endregion
