@@ -1,13 +1,11 @@
 ﻿  source.c
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(76,9): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(76,9): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(83,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-      C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(83,9):
+C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\source.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\source.c(135,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\source.c(135,9):
       서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
   
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(84,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-      C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(84,9):
+C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\source.c(136,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\source.c(136,9):
       서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
   
-  program.vcxproj -> C:\Users\Administrator\Desktop\sbs-computer-program\program\x64\Debug\program.exe
+  program.vcxproj -> C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\x64\Debug\program.exe
