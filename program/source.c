@@ -94,10 +94,110 @@ void main()
 #pragma endregion
 
 
-//pull request
+	
+#pragma region 범용 컴퓨터
+	// 자료형이 정해지지 않은 상태로 모든 자료형을
+	// 저장할 수 있는 포인터입니다.
+
+
+	
+
+	//char a1 = 'A';
+	//int a2 = 10;
+	//float a3 = 3.14f;
+	//
+	//void* reference = NULL;
+	//
+	//
+    //reference = &a1;
+	//
+	//// 범용 포인터는 메모리 주소에 접근해서 값을
+	//// 변경할 수 없습니다.
+	//
+	//*(char *)reference = 'B';
+	//
+	//
+    //printf("a1 변수의 값은 : %c\n",a1);
+	//printf(" reference 변수의 값은 : %p\n\n", reference);
+	//
+	//reference = &a2;
+	//
+	//*(int *)reference = 50;
+	//
+	//
+	//printf("a2 변수의 값은 : %d\n\n", a2);
+	//printf(" reference 변수의 값은 : %p\n\n", reference);
+	//
+    // 
+	//reference = &a3;
+	//
+	//*(float *)reference = 45.5f;
+	//
+	//printf("a3 변수의 값은 : %f\n\n", a3);
+	//printf(" reference 변수의 값은 : %p\n\n", reference);
+	//
+	//// 범용 포인터로 변수의 메모리에 접근하려면 범용 포인터가
+	//// 가리키는 변수의 자료형으로 형 변환해주어야 합니다.
 	
 
 	
+
+#pragma endregion
+
+
+
+#pragma region 상수 지시 포인터
+// 포인터가 가리키는 주소에 저장되어 있는 값을 변경할 수 없도록 
+// 지정되어 있는 포인터입니다.
+
+
+
+
+//int a2 = 10;
+//int a3 = 20;
+//
+//
+//const int* a1 = &a2;
+//
+//    printf("a2의 주소 값 : %p\n", &a2);
+//	printf("a1의 주소 값 : %p\n", &a1);
+//
+//
+//
+//
+//a1 = &a3;
+//
+//   printf("a3의 주소 값 : %p\n", &a3);
+//   printf("a1의 주소 값 : %p\n", &a1);(다시 고치기 전 영상 보기)
+
+
+
+
+
+
+
+
+#pragma endregion
+
+#pragma region 포인터 상수
+ // 포인터 변수가 가리키고 있는 주소 값을 
+ // 변경할 수 없는 포인터 입니다.
+
+int* const a1 = NULL;
+
+int a2 = 99;
+
+int a3 = 555;
+
+a1 = &a2
+
+printf("a1 변수의 값은?: %d\n ", a1);(숙제)
+
+
+
+
+#pragma endregion
+
 
 
 
