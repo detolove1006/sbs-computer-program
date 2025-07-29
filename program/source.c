@@ -193,7 +193,7 @@ a1 = &a2
 
 printf("a1 변수의 값은?: %d\n ", a1);(숙제)
 
-
+//pull request
 
 
 #pragma endregion
