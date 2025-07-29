@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 
 
@@ -77,7 +77,7 @@ void main()
 	//printf("variable 변수 값은 : %d\n", variable);
 	//printf("pointer 변수 값은 : %p\n", *pointer);
 	//printf("pointer 변수가 가리키는 값 : %d\n\n", *pointer);
-	//
+	////
 	//// 포인터 변수도 자신의 메모리 공간을 가지고 있으면.
 	//// 포인터 변수에 변수의 주소를 저장하게 되면 해당 변수의
 	//// 시작 주소를 가리키게 됩니다.
@@ -153,23 +153,19 @@ void main()
 
 
 
-//int a2 = 10;
-//int a3 = 20;
-//
-//
-//const int* a1 = &a2;
-//
-//    printf("a2의 주소 값 : %p\n", &a2);
-//	printf("a1의 주소 값 : %p\n", &a1);
-//
-//
-//
-//
-//a1 = &a3;
-//
-//   printf("a3의 주소 값 : %p\n", &a3);
-//   printf("a1의 주소 값 : %p\n", &a1);(다시 고치기 전 영상 보기)
 
+//int a1 = 10;
+//int a2 = 20;
+//
+//const int* a3 = a1;
+
+//printf("a1의 주소 값? %p\n", &a1);						
+//printf("a3의 주소 값? %p\n\n", &a3);
+//
+//a3 = &a2;
+//
+//printf("a2의 주소 값? %p\n", &a2);
+//printf("a3의` 값? %p\n", &a3);
 
 
 
@@ -183,20 +179,26 @@ void main()
  // 포인터 변수가 가리키고 있는 주소 값을 
  // 변경할 수 없는 포인터 입니다.
 
-int* const a1 = NULL;
+
 
 int a2 = 99;
 
 int a3 = 555;
 
-a1 = &a2
+int* const a1 = &a2;
 
-printf("a1 변수의 값은?: %d\n ", a1);(숙제)
+*a1 = 600;
 
-//pull request
+printf("a2 변수의 주소 값은?: %p\n ", &a2);
+printf("a1 변수의 주소 값은?: %p\n ", a1);
+printf("a2 변수의 값은?: %d\n ", a2);
+printf("a1 변수의 값은?: %d\n ", *a1);
 
 
 #pragma endregion
+
+
+
 
 
 
