@@ -1,2 +1,5 @@
 ﻿  source.c
-C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\source.c(73,2): error C2047: 기본값이 잘못되었습니다.
+C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(105,7): error C2374: 'title': 재정의. 여러 번 초기화했습니다.
+      C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(78,7):
+      'title' 선언을 참조하십시오.
+  
