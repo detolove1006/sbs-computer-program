@@ -22,43 +22,41 @@ void main()
 	//
 	//	printf("a[%d] = %d\n", a1, a[a1]);
 	//
- 	//
+	//
 	//	
 	//		
 	//
 	//}
-	
-	
+
+
 	// 배열의 메모리 공간은 프로그램이 실행하는 동안 
 	// 변경할 수 없습니다.
 
 
-	int array[] = { 1, 2, 3, 4, 5 };
+    int array[] = { 10,20,30,40,50 };
 	
 	int size = sizeof(array) / sizeof(array[0]);
 
+
 	for (int i = 0; i < size; i++)
 	{
-		
-		
-		printf("array[%d]의 값 ; %d\n", i, array[i]); 
+		printf("array[%d]의 값 ; %d\n", i, array[i]);
+
+
 	}
+	printf(" 시작주소: %p\n", array);
 
 
-	printf("배열의 시작 주소 ; %p\n", array);
 
-	int* pointer;
-	
+	int* pointer = array;
 
-	printf("주소 값: %p\n", &pointer);
+	pointer = pointer + 1;
+
+
 
 	*pointer = 25;
 
-	printf("변수 값: %d\n", *pointer);
-	
-	*pointer = array[1];
-
-		printf("변수 값: %d\n", array[1]); //숙제
+	printf("변수의 값 : %d\n", array[1]); 
 
 
 	// 배열의 크기는 생햑할 수 있으며. 초기화 목록에서.
@@ -72,5 +70,6 @@ void main()
 #pragma endregion
 
 
-//pull request
+	
+	
 }
