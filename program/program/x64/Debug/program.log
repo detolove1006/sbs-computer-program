@@ -1,5 +1,2 @@
 ﻿  source.c
-C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(105,7): error C2374: 'title': 재정의. 여러 번 초기화했습니다.
-      C:\Users\Administrator\Desktop\sbs-computer-program\program\source.c(78,7):
-      'title' 선언을 참조하십시오.
-  
+  program.vcxproj -> C:\Users\seokjun\OneDrive\Desktop\sbs-computer-program\program\x64\Debug\program.exe

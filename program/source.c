@@ -112,16 +112,23 @@ void main()
 // 배열의 요소로 또 다른 배열을 가지는 배열입니다.
 
 
-int array2D[3][3] = 9
+int array2D[3][3] =
 {
-	for (int i = 0; i < 10; i++);
 
 
-	{1,2,3},
-	{4,5,6},
-	{7,8,9},
-
+	{ 1,2,3 },
+	{ 4,5,6 },
+	{ 7,8,9 },
 };
+
+for(int i = 1; i < 4; i++ )
+	for (int a = 1; a < 4; a++)
+	{
+		printf("array2D[%d][%d]의 값: %d\n",i, a, i*a);
+	}
+
+	
+}
 
 
 
@@ -131,11 +138,19 @@ int array2D[3][3] = 9
 // 행을 의미하고, 뒤에있는 배열은 열을 의미합니다.
 #pragma endregion
 
-//pull request
+
+
+
+
+
+
+
+
+
+
 #pragma endregion                                                               
 	
-
+	
 
 	
 	
-}
