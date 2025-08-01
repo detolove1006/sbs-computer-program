@@ -112,7 +112,7 @@ void main()
 // 배열의 요소로 또 다른 배열을 가지는 배열입니다.
 
 
-//int array2D[3][3] =
+int array2D[3][3] =
 //{
 //
 //
@@ -126,7 +126,7 @@ void main()
 //
 //	for (int a = 0; a < 3; a++)
 //	{
-//		printf("[%d]", array2D[i][a]); //(수정)
+//		printf("[%d]", array2D[i][a]); 
 //
 //	}
 //

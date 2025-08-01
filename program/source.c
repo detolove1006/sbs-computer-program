@@ -10,12 +10,6 @@ void a1()
 
 }
 
-float a3()
-{
-	return 36.5f;
-
-
-}
 
 int a2()
 {
@@ -25,10 +19,16 @@ int a2()
 
 
 }
+float a3()
+{
+	return 36.5f;
+
+
+}
 
 void a4(int x, int y)
 {
-	printf(" x = %d\n y = %d\n", x, y);
+	printf(" x = %d y = %d\n", x, y);
 }
 
 
@@ -41,7 +41,7 @@ void a5(char grade, int height, float temperature)
 
 
 
-
+ 
 void main()
 {
 
@@ -74,8 +74,8 @@ void main()
 	// 일치하지 않으면 원하는 값을 얻을 수 없습니다.
 
 	
-
-	//printf("온도 : %f\n", a3());
+	//printf("a2의 값 : %d\n", a2());
+	//printf("a3의 값 : %f\n", a3());
 
 
 #pragma endregion
@@ -85,7 +85,7 @@ void main()
 	// 전달하기 위해 사용하는 변수입니다.
 
 
-	a4(10, 20); 
+	//a4(10, 20); 
 	
 
 	// 매개 변수는 함수 내부에서만 연산이 이루어지며,
@@ -97,11 +97,10 @@ void main()
 
 
 #pragma endregion
+	
 
-//pull request
-
-	//수정
-
+	a5('1', 120, 36.5);
+	
 
 
 
