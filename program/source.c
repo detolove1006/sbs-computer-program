@@ -34,10 +34,45 @@ void a4(int x, int y)
 
 void a5(char grade, int height, float temperature)
 {
-	printf("등급 : %c\n", grade);
-	printf("키 : %d\n", height);
-	printf("채온 : %f\n", temperature);
+	printf("등급 : %c등급\n", grade);
+	printf("키 : %dcm\n", height);
+	printf("채온 : %.1f'c\n", temperature);
 }
+
+
+void swap(int* a, int *b)
+{
+
+	int temporary = *a;
+
+	*a = *b;
+
+	*b = temporary;
+
+	
+	
+
+}
+
+void find(int count)
+{
+	
+	
+	if (count <= 0)
+	{
+		return;
+
+
+		
+
+	}
+	
+	printf("%d", count);
+	find(count - 1);
+
+}
+
+
 
 
 
@@ -91,6 +126,10 @@ void main()
 	// 매개 변수는 함수 내부에서만 연산이 이루어지며,
 	// 함수가 종료되면 메모리에서 해제됩니다.
 
+
+
+	//a5('A', 180, 36.5);
+
 	//하나의 함수에 서로 다흔 자료형의 매개 변수를 함께
 	//정의할 수 있으며. 여러 개의 매개 변수를 생성할 수 있습니다.
 
@@ -99,10 +138,67 @@ void main()
 #pragma endregion
 	
 
-	a5('1', 120, 36.5);
+#pragma region 인수
+	// 함수가 호출될 때 매개 변수에 실제로 전달되는 값입니다.
+
+
 	
 
-//pull request
+	
+
+	
+
+    //둘다 수정
+
+	
+	
+	//int x1 = 10;
+	//
+	//int x2 = 20;
+	//
+	//swap(&x1, &x2);
+	//
+	//printf("x1: %d\n", x1); 
+	//printf("x2: %d\n", x2);
+
+
+
+
+	// 인수의 경우 함수에 있는 매개 변수에 따라 전달할 수
+	// 있는 인수의 수가 결정되며, 값을 전달하는 인수와 값을
+	// 전달 받는 매개 변수의 자료형이 서로 일치해야합니다.
+#pragma endregion
+
+	
+#pragma region 재귀 함수
+	// 어떤 함수에서 자신을 다시 호출하여 작업을
+	// 수행하는 합수입니다.
+	// 
+	// 
+		//find(3);
+		// 
+		// 
+		// 
+	// 재귀 함수는 함수를 계속하기 때문에 스택 영역에 
+	// 메모리가 계속 쌓이게 되므로 스택 오버플로우가 발생합니다.
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+#pragma endregion
+
+
 
 
 
