@@ -79,7 +79,7 @@ inline int square(int x)
 }
 
 
-double average(int count)
+double average(int count, ...)
 {
 
 
@@ -93,19 +93,19 @@ double average(int count)
 
 	// va_arg : 가변 인수 포인터에서 특정 자료형의 크기만큼 값을 가져오는 함수입니다.
 
-	int sun = 0;
+	double sum = 0;
 
-	for (int i = 0, i < count; i++)
+	for (int i = 0; i < count; i++)
 	{
-		sum ++ va_arg(pointer, int);
+		sum += va_arg(pointer, int);
 	}
-	va_arg(pointer, int);
+	
 
 	// va_end : 가변 인수가 끝났을 때 포인터를 NULL로 초기화하는 함수입니다.
 
 	va_end(pointer);
 
-	return (double)sum / count;
+	return sum / count;
 
 
 
@@ -259,7 +259,7 @@ void main()
 // 인수를 추가로 받을 수 있는 인수입니다.
 
 
-//printf("%lf\n", average(4, 80, 90, 75, 60)); 수정
+printf("%lf\n", average(4, 80, 90, 75, 60));
 
 
 
