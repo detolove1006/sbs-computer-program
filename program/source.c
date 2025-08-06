@@ -4,7 +4,6 @@
 
 
 
-	
 
 
 
@@ -17,11 +16,31 @@ int main()
 
 	int* pointer = malloc(4);
 
-	*pointer = 10;
+	*pointer = 0;
+
+	int a1 = ;
+	
+	do
+	{
+
+
+		for (int i = 0; i < 3; i++)
+		{
+			i = (i + 1) * 10;
+
+			printf("%d\n", i);
+			a1 += 1;
+			
+		}
+
+		
+	} while ( pointer >= 0);
+
+	
+	//printf(" 첫번째 pointer 가리키는 값 : %d\n", i);
 
 	
 
-	printf(" pointer 가리키는 값 : %d\n", *pointer);
 
 	// 동적 할당은 실행 시간에 가변적으로 메모리의 크기를
 	// 변경할 수 있으며, 동적으로 메모리의 크기를 할당할 때
@@ -42,7 +61,9 @@ int main()
 	
 	
 
-//pull request
+
+	
+
 
 
 
