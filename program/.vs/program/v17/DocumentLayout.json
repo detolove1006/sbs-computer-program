@@ -1,50 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B6ED3CC-7B9E-43BD-938E-8E5E30E24EF2}|program.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B6ED3CC-7B9E-43BD-938E-8E5E30E24EF2}|program.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B6ED3CC-7B9E-43BD-938E-8E5E30E24EF2}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08984AB9-701D-40A4-BEDC-478F39CD7FCE}|..\\ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3210034C-4639-44EC-9F2B-6DC45D269392}|..\\class12th (Dynamic Allocation)\\class12th (Dynamic Allocation).vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class12th (Dynamic Allocation)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B6ED3CC-7B9E-43BD-938E-8E5E30E24EF2}|program.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B6ED3CC-7B9E-43BD-938E-8E5E30E24EF2}|program.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B6ED3CC-7B9E-43BD-938E-8E5E30E24EF2}|program.vcxproj|solutionrelative:utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F53EF81F-2939-4A8D-9EF0-32C489D8F72C}|..\\class4th\\class4th.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class4th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{08984AB9-701D-40A4-BEDC-478F39CD7FCE}|..\\ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66B77F8-B6EF-4ADF-A328-1C025A0A0241}|..\\class3th\\class3th.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class3th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class4th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C578FC2-5F10-466B-9621-05BE2C80CC71}|..\\Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class2th (Variable \u0026 Constant)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class3th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5BFFA92-BA03-4C27-87F7-A5A2A7A44A45}|..\\clath9th\\clath9th.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\clath9th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class2th (Variable \u0026 Constant)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D978383D-5300-41C9-82B5-2DA1944EA6A8}|..\\class10th (ungshion)\\class10th (ungshion).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\clath9th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\clath9th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D978383D-5300-41C9-82B5-2DA1944EA6A8}|..\\class10th (ungshion)\\class10th (ungshion).vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47FE80A-A186-40A4-8875-D4DE0DE35D98}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class5th (Conditional Statement)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5BFFA92-BA03-4C27-87F7-A5A2A7A44A45}|..\\clath9th\\clath9th.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\clath9th\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33583C35-FF42-4DB8-98AA-85C051BDA09F}|..\\class8th pointer\\class8th pointer.vcxproj|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class5th (Conditional Statement)\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33583C35-FF42-4DB8-98AA-85C051BDA09F}|..\\class8th pointer\\class8th pointer.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,66 +60,74 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "souce.c",
-              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
-              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\souce.c",
-              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
-              "RelativeToolTip": "..\\ConsoleApplication1\\souce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class12th (Dynamic Allocation)\\souce.c",
+              "RelativeDocumentMoniker": "..\\class12th (Dynamic Allocation)\\souce.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class12th (Dynamic Allocation)\\souce.c",
+              "RelativeToolTip": "..\\class12th (Dynamic Allocation)\\souce.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-06T01:51:53.479Z",
+              "WhenOpened": "2025-08-06T09:35:43.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "souce.c",
+              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
+              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-06T01:51:53.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\souce.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\ConsoleApplication1\\souce.c",
+              "RelativeToolTip": "..\\ConsoleApplication1\\souce.c",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-05T10:06:17.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class4th\\souce.c",
-              "RelativeDocumentMoniker": "..\\class4th\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class4th\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class4th\\souce.c",
-              "RelativeToolTip": "..\\class4th\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class4th\\souce.c",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-02T08:18:43.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class3th\\souce.c",
-              "RelativeDocumentMoniker": "..\\class3th\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class3th\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class3th\\souce.c",
-              "RelativeToolTip": "..\\class3th\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class3th\\souce.c",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-02T08:18:34.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class2th (Variable \u0026 Constant)\\souce.c",
-              "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class2th (Variable \u0026 Constant)\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class2th (Variable \u0026 Constant)\\souce.c",
-              "RelativeToolTip": "..\\Class2th (Variable \u0026 Constant)\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class2th (Variable \u0026 Constant)\\souce.c",
               "ViewState": "AgIAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-02T08:18:28.841Z"
@@ -125,11 +136,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\source.c",
               "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-30T09:00:13.991Z",
               "EditorCaption": ""
@@ -138,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "utility.h",
-              "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\utility.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\utility.h",
               "RelativeDocumentMoniker": "utility.h",
-              "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\program\\utility.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\program\\utility.h",
               "RelativeToolTip": "utility.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -148,84 +159,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
-              "RelativeDocumentMoniker": "..\\clath9th\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
-              "RelativeToolTip": "..\\clath9th\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-01T02:57:22.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
-              "RelativeDocumentMoniker": "..\\class10th (ungshion)\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
-              "RelativeToolTip": "..\\class10th (ungshion)\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
               "ViewState": "AgIAAPoAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-05T04:01:59.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
+              "RelativeDocumentMoniker": "..\\class10th (ungshion)\\souce.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\class10th (ungshion)\\souce.c",
+              "RelativeToolTip": "..\\class10th (ungshion)\\souce.c",
               "ViewState": "AgIAANUAAAAAAAAAAAAkwA0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-04T10:22:13.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
+              "RelativeDocumentMoniker": "..\\clath9th\\souce.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\clath9th\\souce.c",
+              "RelativeToolTip": "..\\clath9th\\souce.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-31T09:24:28.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class5th (Conditional Statement)\\souce.c",
-              "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class5th (Conditional Statement)\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class5th (Conditional Statement)\\souce.c",
-              "RelativeToolTip": "..\\Class5th (Conditional Statement)\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\Class5th (Conditional Statement)\\souce.c",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-02T08:18:49.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
-              "RelativeDocumentMoniker": "..\\class8th pointer\\souce.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
               "ToolTip": "C:\\Users\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
-              "RelativeToolTip": "..\\class8th pointer\\souce.c",
+              "RelativeToolTip": "..\\..\\..\\..\\seokjun\\OneDrive\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAMIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-31T02:33:37.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "souce.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
+              "RelativeDocumentMoniker": "..\\class8th pointer\\souce.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\sbs-computer-program\\class8th pointer\\souce.c",
+              "RelativeToolTip": "..\\class8th pointer\\souce.c",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-30T09:00:29.208Z"
             }

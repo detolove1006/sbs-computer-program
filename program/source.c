@@ -1,69 +1,79 @@
 ﻿#include <stdio.h>
-#include <stdlib.h>
+#include <math.h>
 
 
-
-
+//struct Data
+//{
+//
+//	char grade;
+//	int health;
+//	double experience;
+//	
+//
+//};
 
 
 
 int main()
 {
 
-#pragma region 동적 할당
-	// 프로그램을 실행하는 중에 필요한 만큼 메모리를 할당
-	// 하는 작업입니다.
-
-	int* pointer = malloc(4);
-
-	*pointer = 0;
-
-	int a1 = ;
-	
-	do
-	{
+#pragma region 구조체
+	// 여러 개의 변수를 하나의 집합으로 구조화한 다음
+	// 하나의 객체를 생성하는 것 입니다.
 
 
-		for (int i = 0; i < 3; i++)
-		{
-			i = (i + 1) * 10;
+	//struct Data data = { 'B', 50, 75.45 };
 
-			printf("%d\n", i);
-			a1 += 1;
-			
-		}
+	// 구조체의 각맴버는 구조체 선언에서 나타나는 순서대로 초기화됩니다.
+    // 이 순서는 초기화 목록의 값들이 왼쪽에서부터 오른쪽으로 대응됩니다.
 
-		
-	} while ( pointer >= 0);
-
-	
-	//printf(" 첫번째 pointer 가리키는 값 : %d\n", i);
-
+	//printf("값 : %c\n", data.grade);
+	//
+	//printf("값 : %d\n", data.health);
+	//
+	//printf("값 : %.2f\n", data.experience);
+	//
+	//
+	//data.grade = 'A';
+	//data.health = 10;
+	//data.experience = 3.14f;
+	//
+	//printf("값 : %c\n", data.grade);
+	//
+	//printf("값 : %d\n", data.health);
+	//
+	//printf("값 : %.2f\n", data.experience);
 	
 
 
-	// 동적 할당은 실행 시간에 가변적으로 메모리의 크기를
-	// 변경할 수 있으며, 동적으로 메모리의 크기를 할당할 때
-	// 바이트 단위로 지정합니다.
 
-	free(pointer);
 
+	// 구조체를 선언하기 전에 구조체는 메모리 공간이 
+	//생성되지 않으므로, 구조체 내부에 있는 데이터를
+	// 초기화할 수 없습니다.
+#pragma endregion
+
+
+#pragma region 두 점 사이의 거리
+
+	int x;
+
+	int y;
+
+	printf("%lf\n", sqrt(1));
+
+	printf("%lf\n", sqrt(5));
+
+
+
+	printf("%lf\n", sqrt(1));
+
+	printf("%lf\n", sqrt(7));
 
 	
-	
-	// 동적으로 할당한 메모리는 힙 영역에 보관되어 있으므로,
-	// 사용이 끝나면 직접 해제해주어야 합니다.
-
 
 
 #pragma endregion
-
-	
-	
-
-
-//pull request
-
 
 
 
