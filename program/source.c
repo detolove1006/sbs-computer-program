@@ -2,15 +2,40 @@
 #include <math.h>
 
 
-//struct Data
-//{
-//
-//	char grade;
-//	int health;
-//	double experience;
-//	
-//
-//};
+struct Data
+{
+
+	char grade;
+	int health;
+	double experience;
+	
+
+};
+
+struct point2D
+{
+	int x;
+	int y;
+
+};
+
+struct item
+{
+	char a1;
+	double a3;
+	int a2;
+};
+
+struct Node
+{
+	int data;
+	struct Node* next;
+};
+
+
+
+
+
 
 
 
@@ -56,32 +81,94 @@ int main()
 
 #pragma region 두 점 사이의 거리
 
-	int x;
 	
-	int y;
-	
-	double distance;
-	
-		
-		
 
-	printf("%lf\n", sqrt(1,1));
-	
-	printf("%lf\n", sqrt(5,7));
-	
-	
-	
-	printf("%lf\n", sqrt(1));
-	
-	printf("%lf\n", sqrt(7));
+	//struct point2D rogue = { 0, 0 };
+	//
+	//struct point2D slime = { 5, 3 };
+	//
+	//double x = rogue.x - slime.x;
+	//double y = rogue.y - slime.y;
+	//
+	//double distance = sprt(pow(x, 2) + pow(y, 2));
+	//
+	//if (distance >= 5.0)
+	//{
+	//	print("It is safe\n");
+	//}
+	//else
+	//{
+	//	printf("target is in attack range\n");
+	//}
+
+
 
 	
 
 
 #pragma endregion
 
+#pragma region 바이트 패딩
+	// 맴버 변수를 메모리에서 cpu로 읽을 때 한번에
+	// 읽을 수 있도록, 컴파일러가 레지스터의 블록에
+	// 맞추어 바이트를 패딩해주는 최적화 작업입니다.
+
+
+	//struct Data packet = { 'A', 10, 17.5 };
+
+
+	//printf("%u\n", sizeof(packet));
 
 	
+
+	// 구조체의 크기는 구조체를 구성하는 맴버 중에서 크기가
+	// 가장 큰 자료형의 배수가 되도록 정렬합니다.
+
+
+	//struct item packet = { 'C', 20.5, 100 };
+
+	//printf("%u\n", sizeof(packet));
+
+	// 구조체의 크기의 경우 맴버 변수의 순서에 따라 메모리의 크기가
+	// 다르게 설정될 수 있습니다.
+#pragma endregion
+
+#pragma region 자기 참조 구조체
+
+	
+	
+	
+
+
+	struct Node a1 = {10,NULL};
+
+	
+
+	struct Node a2 = {20,NULL };
+
+
+	struct Node a3 = {30,NULL };
+
+	a1.next = &a2;
+	a2.next = &a3;
+	a3.next = NULL;
+
+
+	
+	struct Node* currentNode = &a1;
+
+	while (currentNode != NULL)
+	{
+		printf("%d", currentNode->data);
+
+		currentNode = currentNode->next;
+	}
+	
+	
+
+	
+
+#pragma endregion
 
 	
 
