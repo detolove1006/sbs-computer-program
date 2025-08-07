@@ -57,17 +57,22 @@ int main()
 #pragma region 두 점 사이의 거리
 
 	int x;
-
+	
 	int y;
+	
+	double distance;
+	
+		
+		
 
+	printf("%lf\n", sqrt(1,1));
+	
+	printf("%lf\n", sqrt(5,7));
+	
+	
+	
 	printf("%lf\n", sqrt(1));
-
-	printf("%lf\n", sqrt(5));
-
-
-
-	printf("%lf\n", sqrt(1));
-
+	
 	printf("%lf\n", sqrt(7));
 
 	
@@ -76,7 +81,11 @@ int main()
 #pragma endregion
 
 
-//pull request
+	
+
+	
+
+	 
 
 	return 0;
 }
