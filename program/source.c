@@ -122,7 +122,7 @@ int main()
 	
 
 	// 구조체의 크기는 구조체를 구성하는 맴버 중에서 크기가
-	// 가장 큰 자료형의 배수가 되도록 정렬합니다.
+ 	// 가장 큰 자료형의 배수가 되도록 정렬합니다.
 
 
 	//struct item packet = { 'C', 20.5, 100 };
@@ -171,7 +171,7 @@ int main()
 #pragma endregion
 
 	
-//pull request
+
 	 
 
 	return 0;
